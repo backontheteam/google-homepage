@@ -1,1 +1,3 @@
 # google-homepage
+
+This is the first Odin Project assignment where I'm creating a web site and actually using GitHub for the files (repository?). Still not sure what to call everything...
